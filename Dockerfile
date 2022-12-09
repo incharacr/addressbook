@@ -1,2 +1,2 @@
 FROM tomcat:8
-COPY target/*.war /usr/local/tomcat/webapps/pro-addressbook.war
+COPY target/*.war /usr/local/tomcat/webapps/addressbook.war
